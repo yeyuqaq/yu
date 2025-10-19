@@ -1,0 +1,18 @@
+{
+    "panels": {
+        "mihomo": [
+            {
+                "url": "https://panel.example.com",
+                "description": "主面板"
+            }
+        ]
+    },
+    "onlineSupport": [
+        {
+            "url": "https://chat.example.com",
+            "description": "在线客服",
+            "apiBaseUrl": "https://chat.example.com",
+            "wsBaseUrl": "wss://chat.example.com"
+        }
+    ]
+}
